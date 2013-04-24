@@ -1,0 +1,4 @@
+Revision history for App-Tapper-prove
+
+0.001     2013-04-24
+        - a drop-in replacement for 'prove' with Tapper support
