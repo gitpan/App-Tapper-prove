@@ -1,13 +1,13 @@
 use strict;
 use warnings;
 package App::Tapper::prove;
-# git description: 5967561
+# git description: v0.001-2-gf48e438
 
 BEGIN {
   $App::Tapper::prove::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $App::Tapper::prove::VERSION = '0.001';
+  $App::Tapper::prove::VERSION = '0.002';
 }
 # ABSTRACT: Tapper - tprove - alternative 'prove' which reports results to Tapper
 
